@@ -1,11 +1,8 @@
 import './App.css';
+import Form from './Form';
 
 function App() {
-  return (
-    <div className='App'>
-      <h1>Hello React Developers</h1>
-    </div>
-  );
+  return <Form />;
 }
 
 export default App;
